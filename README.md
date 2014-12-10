@@ -1,3 +1,3 @@
 # Código de Conducta
 
-Text for [codigodeconducta.com](http://codigodeconducta.com) website.
+Source for [codigodeconducta.com](http://codigodeconducta.com) website.
